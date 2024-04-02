@@ -4,7 +4,7 @@ const Header = (props) => {
   const [counter, setCouter] = useState(0);
   return (
     <>
-      <h1>V1.0</h1>
+      <h1>V2.0</h1>
       <h1>
         Hello, {counter} , {props.name}
       </h1>
